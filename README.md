@@ -1,5 +1,5 @@
 # Présentation
-🌱 En formation BAC+4 "Concepteur Développeur d'Applications" avec l'école ENI de Quimper.
+🌱 Chargé des applications informatiques, Centre Hospitalier de Cornouaille Quimper Concarneau
 
 # Projets
 - [yannickbiheul.com](https://www.yannickbiheul.com/) : Ma carte de visite
